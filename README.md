@@ -1,2 +1,2 @@
 # hello-world
-start learning
+just start a github repository
